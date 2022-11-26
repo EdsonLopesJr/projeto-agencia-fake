@@ -23,7 +23,7 @@
         flex: 100%;
         margin: 5%;
         text-align: center;
-        border: 1px solid orange;
+        /* border: 1px solid orange; */
     }
 
     .headline h2 {
